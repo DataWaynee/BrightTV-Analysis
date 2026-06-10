@@ -222,8 +222,4 @@ Wayne N Ndlovu
 
 Electrical & Electronic Engineering Student | Aspiring AI Engineer | Data Analytics Enthusiast
 
-Areas of Interest
-Artificial Intelligence
-Data Analytics
-Business Intelligence
-Customer Behavior Analytics
+
