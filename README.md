@@ -1,14 +1,14 @@
 # BrightTV-Analysis
 
-📺 BrightTV Viewership Analytics Dashboard
+ ## 📺 BrightTV Viewership Analytics Dashboard
 
 A Business Intelligence and Data Analytics project focused on understanding viewer behavior, identifying growth opportunities, and providing strategic recommendations to support BrightTV's subscription growth objectives.
 
-🎯 Project Overview
+## 🎯 Project Overview
 
 BrightTV's executive leadership aims to increase its subscriber base and improve customer engagement. This project leverages viewership and subscriber data to uncover actionable insights that can help the Customer Value Management (CVM) team drive growth, improve retention, and optimize content strategy.
 
-The analysis explores:
+### The analysis explores:
 
 User demographics
 Content consumption trends
@@ -19,7 +19,7 @@ Data quality challenges
 Strategic recommendations for subscriber acquisition and retention
 📊 Dashboard Objectives
 
-The dashboard was developed to answer the following business questions:
+### The dashboard was developed to answer the following business questions:
 
 1. What are the user and consumption trends on BrightTV?
 Who are the most active viewers?
@@ -51,7 +51,7 @@ Key Insight
 
 BrightTV is heavily dependent on adult male viewers, primarily driven by sports content consumption.
 
-🌍 Race Distribution
+# 🌍 Race Distribution
 Race	Share
 Black	43.3%
 Coloured	16.3%
@@ -62,9 +62,9 @@ Key Insight
 
 BrightTV demonstrates broad racial representation, although regional concentration patterns exist across provinces.
 
-🗺️ Provincial Analysis
+# 🗺️ Provincial Analysis
 
-Top Performing Provinces:
+### Top Performing Provinces:
 
 Gauteng
 
@@ -74,7 +74,7 @@ KwaZulu-Natal
 
 Mpumalanga
 
-Key Findings :
+## Key Findings :
 
 Gauteng acts as BrightTV's primary revenue engine.
 Western Cape shows strong Coloured viewership.
@@ -90,8 +90,8 @@ Key Insight
 
 Sports content is the primary driver of engagement across the platform.
 
-📉 Bounce Rate Analysis
-Overview
+# 📉 Bounce Rate Analysis
+### Overview
 Metric	Value
 Bounce Rate	59.88%
 Bounced Sessions	6,000+
@@ -115,7 +115,7 @@ Live Event Dependency
 
 Event-driven channels recorded the highest bounce rates, indicating a strong reliance on live sports programming.
 
-⚠️ Data Quality Findings
+# ⚠️ Data Quality Findings
 Anonymous Subscribers
 
 Approximately 13% of subscribers have incomplete demographic profiles.
@@ -129,7 +129,7 @@ Recommendation
 
 Implement profile completion incentives and improve onboarding data collection.
 
-🚀 Strategic Recommendations
+# 🚀 Strategic Recommendations
 1. Reduce Bounce Rate
 Personalized homepage recommendations
 Live event countdown indicators
@@ -159,13 +159,13 @@ Regional campaigns
 Localized content offerings
 4. AI & Personalization
 
-Future enhancements include:
+### Future enhancements include:
 
 Recommendation engines
 Churn prediction models
 Viewer segmentation
 Behavioral clustering
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 Data Analytics
 Microsoft Power BI
 Excel Pivot Tables
@@ -180,7 +180,7 @@ KPI Monitoring
 Executive Dashboards
 Strategic Reporting
 📊 Dashboard Pages
-Executive Overview
+# Executive Overview
 
 Provides a high-level summary of:
 
@@ -204,9 +204,9 @@ Provincial expansion opportunities
 Demographic growth areas
 Bounce rate optimization
 Strategic recommendations
-📌 Key Business Conclusion
+# 📌 Key Business Conclusion
 
-BrightTV possesses a strong foundation built on sports content and urban market penetration. However, significant growth opportunities exist through:
+### BrightTV possesses a strong foundation built on sports content and urban market penetration. However, significant growth opportunities exist through:
 
 Bounce rate reduction
 Improved personalization
@@ -216,7 +216,7 @@ Enhanced data quality practices
 
 By implementing these recommendations, BrightTV can improve user engagement, increase retention, and accelerate subscription growth.
 
-👨‍💻 Author
+# 👨‍💻 Author
 
 Wayne N Ndlovu 
 
